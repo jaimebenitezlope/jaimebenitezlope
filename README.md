@@ -1,16 +1,16 @@
-![Imagen decorativa de tu perfil](./69EF5D45-06BD-41DC-A2A2-132CE4339AA0_1_105_c%2010.54.04.jpeg)
+![Imagen decorativa de tu perfil](./5f97653f-5468-4c79-bccd-2b082d450c73.jpg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h1 align="center">Hola 👋, Soy Jaime Benítez</h1>
+<h3 align="center">programing!</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
+- 🔭 ACTUALMENTE TRABAJO EN [Mi Portfolio](/jaimebenitezlope/jaimebenitezlopePortfolio)
 
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
+- 🌱 ESTOY ESTUDIANDO **Frameworks**
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
+- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [jaimebenitez.dev](jaimebenitez.dev)
 
-- 📫 PUEDES CONTACTARME EN **micorreo@midominio.com**
+- 📫 PUEDES CONTACTARME EN **jaimebenitezlope@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
