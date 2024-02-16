@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](./69EF5D45-06BD-41DC-A2A2-132CE4339AA0_1_105_c.jpeg)
+![Imagen decorativa de tu perfil](./69EF5D45-06BD-41DC-A2A2-132CE4339AA0_1_105_c%2010.54.04.jpeg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
