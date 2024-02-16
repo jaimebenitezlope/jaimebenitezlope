@@ -1,7 +1,5 @@
 <p align="center">
-
-![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/jaimebenitezlope/jaimebenitezlope/main/5f97653f-5468-4c79-bccd-2b082d450c73.jpg)
-
+<img src="https://raw.githubusercontent.com/jaimebenitezlope/jaimebenitezlope/main/5f97653f-5468-4c79-bccd-2b082d450c73.jpg">
 </p>
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
