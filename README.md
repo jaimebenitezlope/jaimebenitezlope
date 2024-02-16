@@ -10,25 +10,13 @@
 
 - 🌱 ESTOY ESTUDIANDO **Frameworks**
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [jaimebenitez.dev](jaimebenitez.dev)
+- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [jaimebenitez.dev](jaimebenitezlope.dev)
 
 - 📫 PUEDES CONTACTARME EN **jaimebenitezlope@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/url-de-codepen" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="url-de-codepen" height="30" width="40" />
-  </a>
-
-  <a href="https://dev.to/url-de-devto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="url-de-devto" height="30" width="40" />
-  </a>
-
-  <a href="https://twitter.com/url-de-twitter" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="url-de-twitter" height="30" width="40" />
-  </a>
-
-  <a href="https://linkedin.com/in/url-de-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/jaime-benítez-lope-b892ba2a3/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" />
   </a>
 </p>
