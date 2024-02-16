@@ -1,4 +1,8 @@
-![Imagen decorativa de tu perfil](./5f97653f-5468-4c79-bccd-2b082d450c73.jpg)
+<p align="center">
+
+![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/jaimebenitezlope/jaimebenitezlope/main/5f97653f-5468-4c79-bccd-2b082d450c73.jpg)
+
+</p>
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Jaime Benítez</h1>
