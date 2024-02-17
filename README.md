@@ -4,11 +4,11 @@
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Jaime Benítez</h1>
-<h3 align="center">programing!</h3>
+<h3 align="center">Desarrollador Web Junior</h3>
 
 - 🔭 ACTUALMENTE TRABAJO EN [Mi Portfolio](/jaimebenitezlope/jaimebenitezlopePortfolio)
 
-- 🌱 ESTOY ESTUDIANDO **Frameworks**
+- 🌱 ESTOY ESTUDIANDO **FRAMEWORKS**
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [jaimebenitez.dev](jaimebenitezlope.dev)
 
