@@ -8,7 +8,7 @@
 
 - 🔭 ACTUALMENTE TRABAJO EN [Mi Portfolio](/jaimebenitezlope/jaimebenitezlopePortfolio)
 
-- 🌱 ESTOY ESTUDIANDO **FRAMEWORKS**
+- 🌱 ESTOY ESTUDIANDO **REACT**
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [jaimebenitez.dev](jaimebenitezlope.dev)
 
