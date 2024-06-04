@@ -3,8 +3,8 @@
 </p>
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy Jaime Benítez</h1>
-<h3 align="center">Desarrollador Web Junior</h3>
+<h1 align="center">¡Hola!, Soy Jaime Benítez</h1>
+<h3 align="center">Desarrollador Web</h3>
 
 - 🔭 ACTUALMENTE TRABAJO EN [Mi Portfolio](/jaimebenitezlope/jaimebenitezlopePortfolio)
 
