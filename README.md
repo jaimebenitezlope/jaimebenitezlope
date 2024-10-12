@@ -12,7 +12,7 @@
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [jaimebenitez.dev](jaimebenitezlope.dev)
 
-- 📫 PUEDES CONTACTARME EN **bl.jaime@icloud.com**
+- 📫 PUEDES CONTACTARME EN ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
